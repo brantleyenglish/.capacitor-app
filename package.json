@@ -15,7 +15,10 @@
   "dependencies": {
     "@capacitor/browser": "latest",
     "@capacitor/core": "latest",
-    "@capacitor/splash-screen": "latest"
+    "@capacitor/ios": "latest",
+    "@capacitor/splash-screen": "latest",
+    "@capawesome-team/capacitor-sqlite": "^0.1.2",
+    "@sqlite.org/sqlite-wasm": "latest"
   },
   "devDependencies": {
     "@capacitor/cli": "latest",

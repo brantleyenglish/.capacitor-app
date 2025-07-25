@@ -1,0 +1,43 @@
+PODS:
+  - Capacitor (7.4.2):
+    - CapacitorCordova
+  - CapacitorBrowser (7.0.1):
+    - Capacitor
+  - CapacitorCordova (7.4.2)
+  - CapacitorSplashScreen (7.0.1):
+    - Capacitor
+  - CapawesomeTeamCapacitorSqlite (0.1.2):
+    - Capacitor
+    - CapawesomeTeamCapacitorSqlite/Default (= 0.1.2)
+  - CapawesomeTeamCapacitorSqlite/Default (0.1.2):
+    - Capacitor
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorBrowser (from `../../node_modules/@capacitor/browser`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorSplashScreen (from `../../node_modules/@capacitor/splash-screen`)"
+  - "CapawesomeTeamCapacitorSqlite (from `../../node_modules/@capawesome-team/capacitor-sqlite`)"
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorBrowser:
+    :path: "../../node_modules/@capacitor/browser"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorSplashScreen:
+    :path: "../../node_modules/@capacitor/splash-screen"
+  CapawesomeTeamCapacitorSqlite:
+    :path: "../../node_modules/@capawesome-team/capacitor-sqlite"
+
+SPEC CHECKSUMS:
+  Capacitor: 156d98aba46ec01dde72c4bbb92fa626837cad29
+  CapacitorBrowser: 081852cf532acf77b9d2953f3a88fe5b9711fb06
+  CapacitorCordova: 5e58d04631bc5094894ac106e2bf1da18a9e6151
+  CapacitorSplashScreen: 19cd3573e57507e02d6f34597a8c421e00931487
+  CapawesomeTeamCapacitorSqlite: 8c332560a75b6a1d7488a39cd255172aef172686
+
+PODFILE CHECKSUM: 83056eaa3498c08b170a67eed0f647e7ffb53cb2
+
+COCOAPODS: 1.14.3
